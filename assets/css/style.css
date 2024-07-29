@@ -25,3 +25,12 @@ background-image: linear-gradient(to right, #c9dcd6, #a2bbba,	#80979a, #436469,	
     border: none;
     cursor: pointer;
 }
+aside {
+    flex-direction: row;
+    width: 25%;
+}
+section {
+    flex-direction: row;
+    width: 75%;
+    border-style: solid;
+}
